@@ -18,10 +18,7 @@ The unit was 100% coursework based, weighted at 100% of the unit marks. In summa
 - **Deliverables:**
   - Uniquely proposed task description.
   - A folder containing three subdirectories, one per language.
-    - Each subfolder must contain:
-      - A text file with the code.
-      - A Word document or PDF documenting the design process.
-      - A Word document or PDF with the code explanation.
+  
 
 ### Task Description
 
