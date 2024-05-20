@@ -1,6 +1,6 @@
 # Programming Languages and Paradigms Portfolio Piece
 
-This repository showcases this project I have completed during my studies.
+This repository showcases this project I have completed during my final year at university, worth 15 credits. I was taught 11 programming units and chose three to implement my solution.
 
 
 ### Assessment Overview
